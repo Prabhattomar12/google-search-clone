@@ -1,0 +1,45 @@
+.searchPage_options {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.searchPage_option_left,
+.searchPage_option_right {
+  display: flex;
+  align-items: center;
+}
+
+.searchPage_option > a {
+  display: flex;
+  align-items: center;
+  color: gray;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.searchPage_option > a > .MuiSvgIcon-root {
+  margin-right: 5px;
+}
+
+.searchPage_option > a > h3 {
+  font-weight: 400;
+  margin-left: 5px;
+}
+
+.searchPage_option a:hover {
+  text-decoration: underline;
+}
+
+.searchPage_option_right > h3 {
+  font-weight: 400;
+  margin-right: 10px;
+  color: gray;
+}
+
+.searchPage_selected {
+  color: blue;
+  border-bottom: 4px solid blue;
+}
+
+
