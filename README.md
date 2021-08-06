@@ -1,5 +1,13 @@
 # TRY NOW --> https://search-clone-638f3.web.app/
 
+# Homepage
+
+![](Screenshot%20from%202021-08-06%2015-49-10.png)
+ # Search Result
+ 
+ ![](Screenshot%20from%202021-08-06%2015-49-51.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
